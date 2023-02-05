@@ -1,2 +1,4 @@
 # Key_Page_Design-Retro-
-Key entry page design when installing Need for Speed Underground 2 on computer.
+
+* Key entry page design when installing Need for Speed Underground 2 on computer.
+* Bootstrap and css were used together in the design.
